@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hey! I am Akshat Rawat. 👋
 
-<!--
-**rwt-akshat/rwt-akshat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🌱 I’m currently learning spring boot framework 
+👯 I’m looking to collaborate on developing android application
+🤔 I’m looking for help with web dev with spring boot 
+💬 Ask me about Java, Android, Node.js or any tech related stuff 
+📫 How to reach me: akshatrwt00@gmail.com 
+😄 Pronouns: He/His 
+⚡ Favourite quote: Learn to rest, not to quit
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👀 Suggestion:
+    _  while(!success){
+        tryAgain();
+        if(dead) break;
+      }
+_
