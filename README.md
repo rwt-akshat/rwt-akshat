@@ -1,5 +1,5 @@
 ## Hey! I am Akshat Rawat. 👋
-### I am currently working as Programmer Analyst Trainee at Cognizant.
+### Full stack developer
 ![](https://visitor-badge.laobi.icu/badge?page_id=rwt-akshat.rwt-akshat) [![Github](https://img.shields.io/github/followers/rwt-akshat?label=Followers&logo=Github)](https://github.com/rwt-akshat)
 
 - 🌱 I’m learning AWS CI/CD.
